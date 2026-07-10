@@ -339,7 +339,8 @@ footer {
 }
 
 .social ul li a {
-    text-decoration: none;   
+    text-decoration: none;
+    color: white;
 }
 .social ul li a:visited {
     color: white
