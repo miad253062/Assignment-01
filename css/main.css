@@ -52,7 +52,7 @@ nav ul li a:hover {
 
 .banner {
     height: 700px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url(/assets/banner.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url(../assets/banner.jpg);
     background-size: cover;
     margin-top: auto;
 }
@@ -260,19 +260,19 @@ section .meet, .pricing {
 
 .event23 {
     grid-area: one;
-    background-image: url(/previous/event1.png);
+    background-image: url(../previous/event1.png);
     background-size: cover;
     border-radius: 10px;
 }
 .event24 {
     grid-area: two;
-    background-image: url(/previous/event2.png);
+    background-image: url(../previous/event2.png);
     background-size: cover;
     border-radius: 10px;
 }
 .event25 {
     grid-area: three;
-    background-image: url(/previous/event3.png);
+    background-image: url(../previous/event3.png);
     background-size: cover;
     border-radius: 10px;
 }
