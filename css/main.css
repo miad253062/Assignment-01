@@ -47,6 +47,7 @@ nav ul li a:hover {
 
 .common-btn:hover {
     background-color: rgb(77, 77, 255);
+    cursor: pointer;
 }
 
 
